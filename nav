@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>地瓜之旅</title>
+		<meta charset="utf-8">
+	</head>
+    
+	<body>
+		<h1 align="center"> 好好ㄘ的地瓜之旅 </h1>	
+		<nav>
+			<ul>
+				<li><a href="https://taiwantour.info/taiwan-attractions/"target="_blank">北部到底有什麼?</a></li>
+				<li><a href="https://yoke918.com/tag/%e4%b8%ad%e9%83%a8%e6%97%85%e9%81%8a%e6%99%af%e9%bb%9e/"target="_blank">中部到底有什麼?</a></li>
+				<li><a href="https://yoke918.com/tag/%e5%8d%97%e9%83%a8%e6%97%85%e9%81%8a%e6%99%af%e9%bb%9e/"target="_blank">南部到底有什麼?</a></li>
+				<li><a href="https://yoke918.com/tag/%e6%9d%b1%e9%83%a8%e6%97%85%e9%81%8a%e6%99%af%e9%bb%9e/"target="_blank">東部到底有什麼?</a></li>
+				<li><a href="https://blog.kkday.com/3462/asia-taiwan-islands"target="_blank">離島到底有什麼?</a></li>
+			</ul>
+		</nav>
+		
+		<article>
+			<p>台灣美食好好ㄘ，但這邊沒有要介紹美食</p>
+			<p>美食網路隨便查都有，沒有隨便找也都滿好吃ㄉ</p>
+			<p>但好玩的地方卻寮療無幾......</p>
+		</article>
+		
+		<footer>
+			<p><small>早安你好 有山有水樂趣0</small></p>
+		</footer>
+
+	</body>
+	
+	<foot>
+	
+	</foot>
+
+</html>
